@@ -315,14 +315,14 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2.0;
-				DEVELOPMENT_TEAM = A96QT2B44U;
+				DEVELOPMENT_TEAM = FVVB83N8AC;
 				INFOPLIST_FILE = CoreBluetoothClassicSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jett.automation.d6daae4b8e1c5e16;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jett.ps20242;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -338,14 +338,14 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2.0;
-				DEVELOPMENT_TEAM = A96QT2B44U;
+				DEVELOPMENT_TEAM = FVVB83N8AC;
 				INFOPLIST_FILE = CoreBluetoothClassicSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jett.automation.d6daae4b8e1c5e16;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jett.ps20242;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
